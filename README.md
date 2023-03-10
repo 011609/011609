@@ -1,5 +1,13 @@
 <h1 align='center'><strong>👋 HELLO WORLD!👋</strong></h1>
 
+<div align='center'>
+<a href='https://www.discordapp.com/users/998627486483091456'>
+<img style='width: 140px;' src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+</a>
+</div>
+
+<br>
+
 <h1 align='center'><strong>📂 GITHUB STATS 📂</strong></h1>
 
 <div style="white-space:nowrap;" align='center'>
